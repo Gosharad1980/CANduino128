@@ -4391,6 +4391,10 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 9567559e-0b02-4893-a2b4-7665f73f937e)
   )
+  (label "ICP1" (at 34.29 111.76 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 9614c439-833e-49b1-be7f-e71be2d87f4c)
+  )
   (label "ADR12" (at 228.6 115.57 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a2468160-c9ca-42f1-a3cb-847e8669ddce)
@@ -5273,7 +5277,7 @@
   (symbol (lib_id "power:GND") (at 229.87 67.31 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2454b884-4c09-496a-90ef-967cdf77fa17)
-    (property "Reference" "#PWR?" (id 0) (at 229.87 60.96 0)
+    (property "Reference" "#PWR0127" (id 0) (at 229.87 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 229.87 62.23 90))
@@ -5356,7 +5360,7 @@
   (symbol (lib_id "power:GND") (at 260.35 105.41 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2d2b4f2e-875b-4944-a097-a34a83188c8b)
-    (property "Reference" "#PWR?" (id 0) (at 266.7 105.41 0)
+    (property "Reference" "#PWR0135" (id 0) (at 266.7 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 265.43 105.41 90))
@@ -6461,7 +6465,7 @@
   (symbol (lib_id "power:GND") (at 260.35 90.17 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b7b9687a-10c9-494e-aa74-07e40168bd70)
-    (property "Reference" "#PWR?" (id 0) (at 266.7 90.17 0)
+    (property "Reference" "#PWR0134" (id 0) (at 266.7 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 265.43 90.17 90))
@@ -6714,7 +6718,7 @@
   (symbol (lib_id "power:GND") (at 236.22 102.87 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d77f6c79-e26e-4db8-90f3-37f8080cc00d)
-    (property "Reference" "#PWR?" (id 0) (at 229.87 102.87 0)
+    (property "Reference" "#PWR0136" (id 0) (at 229.87 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 231.14 102.87 90))
@@ -7051,6 +7055,9 @@
     (path "/340ad8b6-deee-4c38-be58-6e38690776cc"
       (reference "#PWR0126") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/2454b884-4c09-496a-90ef-967cdf77fa17"
+      (reference "#PWR0127") (unit 1) (value "GND") (footprint "")
+    )
     (path "/972fcf1c-dda8-4eeb-bc49-7709b0363058"
       (reference "#PWR0128") (unit 1) (value "+5V") (footprint "")
     )
@@ -7069,17 +7076,14 @@
     (path "/7474afb4-6fd6-4380-afaa-d01542ff8863"
       (reference "#PWR0133") (unit 1) (value "GND") (footprint "")
     )
-    (path "/2454b884-4c09-496a-90ef-967cdf77fa17"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/b7b9687a-10c9-494e-aa74-07e40168bd70"
+      (reference "#PWR0134") (unit 1) (value "GND") (footprint "")
     )
     (path "/2d2b4f2e-875b-4944-a097-a34a83188c8b"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/b7b9687a-10c9-494e-aa74-07e40168bd70"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0135") (unit 1) (value "GND") (footprint "")
     )
     (path "/d77f6c79-e26e-4db8-90f3-37f8080cc00d"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
     )
     (path "/98d06520-137f-4783-b6e5-5a12e7210f91"
       (reference "BLDC1") (unit 1) (value "Conn_01x06") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-6-5.08_1x06_P5.08mm_Horizontal")
