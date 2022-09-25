@@ -5736,7 +5736,7 @@
   (symbol (lib_id "AVR_H128-CAN:AVR-H128-CAN") (at 104.14 53.34 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 87cdf1d8-cf1d-4080-8e23-92d747e020ef)
-    (property "Reference" "U1" (id 0) (at 104.14 125.73 0)
+    (property "Reference" "AT90CAN128" (id 0) (at 99.06 125.73 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "AVR-H128-CAN" (id 1) (at 97.79 129.54 0)
@@ -6210,7 +6210,7 @@
   (symbol (lib_id "74xx:74AHC373") (at 177.8 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b9678d7f-8a08-4a5c-8f06-297718d78d7d)
-    (property "Reference" "U2" (id 0) (at 179.8194 116.84 0)
+    (property "Reference" "74AHC373" (id 0) (at 179.8194 116.84 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74AHC373" (id 1) (at 179.8194 119.38 0)
@@ -6338,7 +6338,7 @@
   (symbol (lib_id "Conn_ISA_8bits:Bus_ISA_8bit") (at 243.84 113.03 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c79d04a4-fc64-4b64-b421-e47c87d3cc1a)
-    (property "Reference" "J1" (id 0) (at 243.84 67.31 0))
+    (property "Reference" "BusISA8" (id 0) (at 243.84 67.31 0))
     (property "Value" "Bus_ISA_8bit" (id 1) (at 243.84 69.85 0))
     (property "Footprint" "Conn_ISA_8bits:PinSocket_2x32_P2.54mm_Vertical_TopBottom" (id 2) (at 242.57 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6667,7 +6667,7 @@
   (symbol (lib_id "Interface_CAN_LIN:MCP2551-I-P") (at 41.91 179.07 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e5857e51-a1d0-455c-aa0d-d96b31cdddc9)
-    (property "Reference" "MCP1" (id 0) (at 45.72 172.72 0))
+    (property "Reference" "MCP2551" (id 0) (at 48.26 189.23 0))
     (property "Value" "MCP2551-I-P" (id 1) (at 41.91 179.07 0))
     (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (id 2) (at 41.91 191.77 0)
       (effects (font (size 1.27 1.27) italic) hide)
@@ -6879,11 +6879,20 @@
     (path "/8458c86c-d2ee-49d6-83f1-17ee3faef189"
       (reference "#PWR0137") (unit 1) (value "GND") (footprint "")
     )
+    (path "/b9678d7f-8a08-4a5c-8f06-297718d78d7d"
+      (reference "74AHC373") (unit 1) (value "74AHC373") (footprint "Package_SO:SO-20_12.8x7.5mm_P1.27mm")
+    )
+    (path "/87cdf1d8-cf1d-4080-8e23-92d747e020ef"
+      (reference "AT90CAN128") (unit 1) (value "AVR-H128-CAN") (footprint "AVR_H128-CAN:AVR_H128-CAN")
+    )
     (path "/98d06520-137f-4783-b6e5-5a12e7210f91"
       (reference "BLDC1") (unit 1) (value "Conn_01x06") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-6-5.08_1x06_P5.08mm_Horizontal")
     )
     (path "/c9d37541-e871-4bb2-bacc-bedd2f383de1"
       (reference "BLDC2") (unit 1) (value "Conn_01x06") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-6-5.08_1x06_P5.08mm_Horizontal")
+    )
+    (path "/c79d04a4-fc64-4b64-b421-e47c87d3cc1a"
+      (reference "BusISA8") (unit 1) (value "Bus_ISA_8bit") (footprint "Conn_ISA_8bits:PinSocket_2x32_P2.54mm_Vertical_TopBottom")
     )
     (path "/68a824b0-f22d-4edd-b406-7bbabc8fc9fb"
       (reference "CA1") (unit 1) (value "1000pF") (footprint "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder")
@@ -6948,9 +6957,6 @@
     (path "/03da69e5-3600-4722-bd9b-a29881b9dfb7"
       (reference "H6") (unit 1) (value "MountingHole_Pad") (footprint "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief2x")
     )
-    (path "/c79d04a4-fc64-4b64-b421-e47c87d3cc1a"
-      (reference "J1") (unit 1) (value "Bus_ISA_8bit") (footprint "Conn_ISA_8bits:PinSocket_2x32_P2.54mm_Vertical_TopBottom")
-    )
     (path "/da242c27-9e78-44e2-b191-03f64bba0363"
       (reference "J2") (unit 1) (value "Conn_01x10") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-10-5.08_1x10_P5.08mm_Horizontal")
     )
@@ -6997,7 +7003,7 @@
       (reference "LED_TX1") (unit 1) (value "LED") (footprint "LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder")
     )
     (path "/e5857e51-a1d0-455c-aa0d-d96b31cdddc9"
-      (reference "MCP1") (unit 1) (value "MCP2551-I-P") (footprint "Package_DIP:DIP-8_W7.62mm")
+      (reference "MCP2551") (unit 1) (value "MCP2551-I-P") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
     (path "/e14833a0-4668-42e8-b3f5-f0c7a59225b9"
       (reference "OpenHW1") (unit 1) (value "MountingHole") (footprint "Symbol:OSHW-Logo2_7.3x6mm_SilkScreen")
@@ -7061,12 +7067,6 @@
     )
     (path "/45022d70-d772-4236-b8b1-493c78a07fcd"
       (reference "R_TX_1") (unit 1) (value "1K") (footprint "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder")
-    )
-    (path "/87cdf1d8-cf1d-4080-8e23-92d747e020ef"
-      (reference "U1") (unit 1) (value "AVR-H128-CAN") (footprint "AVR_H128-CAN:AVR_H128-CAN")
-    )
-    (path "/b9678d7f-8a08-4a5c-8f06-297718d78d7d"
-      (reference "U2") (unit 1) (value "74AHC373") (footprint "Package_SO:SO-20_12.8x7.5mm_P1.27mm")
     )
   )
 )
