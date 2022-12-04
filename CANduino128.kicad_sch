@@ -123,7 +123,7 @@
       (property "Value" "AVR-H128-CAN" (id 1) (at -1.27 -73.66 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Footprint" "AVR_H128-CAN:AVR-H128-CAN" (id 2) (at -1.27 -68.58 0)
+      (property "Footprint" "AVR_H128-CAN:AVR_H128-CAN" (id 2) (at -1.27 -68.58 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "Datasheet" "" (id 3) (at 1.27 -3.81 0)
@@ -328,7 +328,7 @@
           (name "VCC" (effects (font (size 1.27 1.27))))
           (number "52" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at -12.7 -81.28 90) (length 2.54) hide
+        (pin power_in line (at -12.7 -81.28 90) (length 2.54) hide
           (name "GND" (effects (font (size 1.27 1.27))))
           (number "53" (effects (font (size 1.27 1.27))))
         )
@@ -372,7 +372,7 @@
           (name "AREF" (effects (font (size 1.27 1.27))))
           (number "62" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at -12.7 -81.28 90) (length 2.54) hide
+        (pin power_in line (at -12.7 -81.28 90) (length 2.54) hide
           (name "GND" (effects (font (size 1.27 1.27))))
           (number "63" (effects (font (size 1.27 1.27))))
         )
@@ -384,7 +384,7 @@
           (name "VIN" (effects (font (size 1.27 1.27))))
           (number "65" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at -12.7 -81.28 90) (length 2.54) hide
+        (pin power_in line (at -12.7 -81.28 90) (length 2.54) hide
           (name "PWRGND" (effects (font (size 1.27 1.27))))
           (number "66" (effects (font (size 1.27 1.27))))
         )
@@ -1517,6 +1517,7 @@
       )
     )
   )
+
 
   (junction (at 146.05 186.69) (diameter 0) (color 0 0 0 0)
     (uuid 008cabe0-84f2-40b8-80d6-d88a0c937a97)
