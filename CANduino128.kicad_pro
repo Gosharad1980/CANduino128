@@ -429,6 +429,38 @@
     [
       "b26d10c1-0874-459a-80a4-e525262e670c",
       ""
+    ],
+    [
+      "0c5ba3e9-ff9a-4f92-a1eb-ccd1c219f5a5",
+      "ADC_Line"
+    ],
+    [
+      "a7e84c2f-617c-4f91-b634-8c3f460d5e8d",
+      "ADC_Line1"
+    ],
+    [
+      "672f6f2c-da4f-410d-91e2-08611fd2d12a",
+      "ADC_Line2"
+    ],
+    [
+      "578e0ef5-d6aa-403a-a8c0-60a547f95a73",
+      "ADC_Line3"
+    ],
+    [
+      "871ec1d9-3330-4b1d-bde8-22d41e3e6847",
+      "ADC_Line4"
+    ],
+    [
+      "3fe8131a-a158-43a1-9be1-1195cacf58c1",
+      "ADC_Line5"
+    ],
+    [
+      "a0e9ba62-4e2e-442d-9f0a-e2bd77a286f7",
+      "ADC_Line6"
+    ],
+    [
+      "03fbc6bd-edac-4cde-9e48-dfa85709b91b",
+      "ADC_Line7"
     ]
   ],
   "text_variables": {}
