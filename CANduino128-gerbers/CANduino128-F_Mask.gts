@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9)*
-G04 #@! TF.CreationDate,2022-12-05T01:01:13+01:00*
+G04 #@! TF.CreationDate,2022-12-05T01:24:54+01:00*
 G04 #@! TF.ProjectId,CANduino128,43414e64-7569-46e6-9f31-32382e6b6963,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.9)) date 2022-12-05 01:01:13*
+G04 Created by KiCad (PCBNEW (6.0.9)) date 2022-12-05 01:24:54*
 %MOMM*%
 %LPD*%
 G01*
