@@ -1,4 +1,4 @@
-39792039942245921
+39795479155244002
 4ms_Capacitor
 CP_Elec_5x5.3
 SMT capacitor, aluminium electrolytic, 5x5.3
@@ -28699,6 +28699,20 @@ capacitor tantalum
 0
 2
 2
+Conn_ISA_8bits
+PinHeader_2x32_P2.54mm_Vertical_TopBottom
+Through hole straight pin header, 2x32, 2.54mm pitch, double rows
+Through hole pin header THT 2x32 2.54mm double row
+0
+64
+64
+Conn_ISA_8bits
+PinSocket_2x32_P2.54mm_Vertical_TopBottom
+Through hole straight socket strip, 2x32, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x32 2.54mm double row
+0
+64
+64
 Connector
 Banana_Cliff_FCR7350x_S16N-PC_Horizontal
 Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
