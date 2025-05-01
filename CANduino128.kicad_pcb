@@ -404,7 +404,7 @@
 			(uuid "8607a76c-fb0c-4c8e-b05e-93904f098047")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/C_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -625,7 +625,7 @@
 			(uuid "269f1f78-7863-46ac-8fdf-c6ea90a83fde")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/LED_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1022,7 +1022,7 @@
 			(uuid "018462e4-d95c-43e1-8ca3-a2b4f8a00dad")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1220,7 +1220,7 @@
 			(uuid "fba4b3fe-4b79-4ddd-bcde-f707b4266017")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/C_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1419,7 +1419,7 @@
 			(uuid "9bd0fa61-ad7d-4c51-8df9-ef47f479ce28")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/C_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1979,7 +1979,7 @@
 			(uuid "e2887053-5bbe-4c70-b90a-cb4cb487f852")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x14_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/PinHeader_2x14_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2226,7 +2226,7 @@
 			(uuid "2b8a23bf-3c66-40c3-a48f-f32331ac8b7d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm.wrl"
+		(model "${KIPRJMOD}/packages3D/SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2424,7 +2424,7 @@
 			(uuid "0da35122-f662-4efd-9b49-62ba887b87b6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/C_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2623,7 +2623,7 @@
 			(uuid "ddd1116c-2d6b-4a06-a33a-84ea496cc493")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/C_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2922,7 +2922,7 @@
 			(uuid "54d04820-ddeb-4818-a74e-71cb86201a62")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3798,7 +3798,7 @@
 			(uuid "b858ad92-6d81-4ae0-a99e-5d2bd87e2343")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/LED_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5144,7 +5144,7 @@
 			(uuid "bc89f42f-816d-4d64-887a-1d016f764302")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-10-5.08_1x10_P5.08mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/TerminalBlock_Phoenix_MKDS-1,5-10-5.08_1x10_P5.08mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5343,7 +5343,7 @@
 			(uuid "5fbfa699-cbe7-4bbd-9ab2-eff1de6b0c2d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/C_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5741,7 +5741,7 @@
 			(uuid "5e3faed5-61e6-4cbb-b386-797a9780bf7c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6235,7 +6235,7 @@
 			(uuid "67670211-6eb1-4575-aa78-cdc5f0b88d56")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x11_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/PinHeader_2x11_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6360,7 +6360,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "57bbd6c3-21a6-457f-b945-0fb94741565b")
+			(uuid "87e501bc-4952-49cc-a3ff-a805d78ccdf3")
 		)
 		(pad "1" thru_hole circle
 			(at -1.697056 1.697056)
@@ -6372,7 +6372,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "57bbd6c3-21a6-457f-b945-0fb94741565b")
+			(uuid "530c0e04-ba78-4c98-a135-fb84eea1d0c6")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -2.4)
@@ -6384,7 +6384,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "57bbd6c3-21a6-457f-b945-0fb94741565b")
+			(uuid "6953bb66-5589-4ae3-bd59-4ee2232a45b2")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -6395,7 +6395,7 @@
 			(net 12 "GND")
 			(pinfunction "1")
 			(pintype "input")
-			(uuid "57bbd6c3-21a6-457f-b945-0fb94741565b")
+			(uuid "05d64f8f-fac7-4a5b-b1bc-c74ba5d427aa")
 		)
 		(pad "1" thru_hole circle
 			(at 0 2.4)
@@ -6407,7 +6407,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "57bbd6c3-21a6-457f-b945-0fb94741565b")
+			(uuid "ce26c662-cc42-4906-ae3b-041e4a36dc86")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 -1.697056)
@@ -6419,7 +6419,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "57bbd6c3-21a6-457f-b945-0fb94741565b")
+			(uuid "84becbf6-20e8-4fc2-8cb0-c12a65f52272")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 1.697056)
@@ -6431,7 +6431,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "57bbd6c3-21a6-457f-b945-0fb94741565b")
+			(uuid "4c4507f3-52d9-4352-a805-64a6706bfe21")
 		)
 		(pad "1" thru_hole circle
 			(at 2.4 0)
@@ -6443,7 +6443,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "57bbd6c3-21a6-457f-b945-0fb94741565b")
+			(uuid "49c6cfd5-7e50-454e-87c8-e3b88b3cca44")
 		)
 		(embedded_fonts no)
 	)
@@ -6751,7 +6751,7 @@
 			(uuid "6442a628-e8d2-4896-bb7f-798bbd30d46c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6950,7 +6950,7 @@
 			(uuid "58f904ef-c498-4114-b82f-42bc5c350994")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/C_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7355,7 +7355,7 @@
 			(uuid "b7c2d471-9d28-4308-b972-c6ecb61ead3a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x07_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/PinHeader_2x07_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7554,7 +7554,7 @@
 			(uuid "86271501-5585-4cad-9cc4-a7c04e82daf7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/C_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8400,7 +8400,7 @@
 			(uuid "5897ad1b-58fd-49fd-9391-d138583a68a3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-6-5.08_1x06_P5.08mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/TerminalBlock_Phoenix_MKDS-1,5-6-5.08_1x06_P5.08mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8735,7 +8735,7 @@
 			(uuid "567013d7-aec1-4632-97c9-0ffe226407c4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9048,7 +9048,7 @@
 			(uuid "015b4bc8-7332-42e9-89f6-0e5b067fc16b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8_W7.62mm_Socket.wrl"
+		(model "${KIPRJMOD}/packages3D/DIP-8_W7.62mm_Socket.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9059,7 +9059,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8_W7.62mm.wrl"
+		(model "${KIPRJMOD}/packages3D/DIP-8_W7.62mm.wrl"
 			(offset
 				(xyz 0 0 4)
 			)
@@ -9699,7 +9699,7 @@
 			(uuid "f325ecfc-067a-463b-bf1a-540cf110a3de")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/C_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9897,7 +9897,7 @@
 			(uuid "29e1ce21-1cc4-4daa-8104-7ccb201c9fa6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10151,7 +10151,7 @@
 			(uuid "8318ea9f-6dce-4f5c-9224-b966e9f0db01")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10350,7 +10350,7 @@
 			(uuid "08c8a3e7-3567-46ed-a718-a540cae8faf3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/C_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10548,7 +10548,7 @@
 			(uuid "890bb0ad-0b8e-42bf-a355-f02269819593")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/C_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10746,7 +10746,7 @@
 			(uuid "dabf4b5b-8ee0-4fc2-aee4-f98ce7eb6224")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10967,7 +10967,7 @@
 			(uuid "ef71c2f1-e78c-48f6-a6af-8eaf83c5ca54")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/LED_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11246,7 +11246,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7ad7847b-ff1c-42a6-9b4c-6b3bb613ed8d")
+			(uuid "a74f6a94-8082-407b-b639-fdf1ef6c1112")
 		)
 		(pad "1" thru_hole circle
 			(at -1.697056 1.697056)
@@ -11258,7 +11258,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7ad7847b-ff1c-42a6-9b4c-6b3bb613ed8d")
+			(uuid "81b802bc-2676-458d-a0c8-2d131f7019ea")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -2.4)
@@ -11270,7 +11270,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7ad7847b-ff1c-42a6-9b4c-6b3bb613ed8d")
+			(uuid "c973b05f-a0db-468b-a795-2f5d47d27b93")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -11281,7 +11281,7 @@
 			(net 12 "GND")
 			(pinfunction "1")
 			(pintype "input")
-			(uuid "7ad7847b-ff1c-42a6-9b4c-6b3bb613ed8d")
+			(uuid "9efbacf0-1303-4f76-9876-0154d6b09d84")
 		)
 		(pad "1" thru_hole circle
 			(at 0 2.4)
@@ -11293,7 +11293,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7ad7847b-ff1c-42a6-9b4c-6b3bb613ed8d")
+			(uuid "55f2a447-34d1-429a-9c05-1c4f9e57d26c")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 -1.697056)
@@ -11305,7 +11305,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7ad7847b-ff1c-42a6-9b4c-6b3bb613ed8d")
+			(uuid "bf7a0ab5-b3ee-41f8-a31b-9853912be953")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 1.697056)
@@ -11317,7 +11317,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7ad7847b-ff1c-42a6-9b4c-6b3bb613ed8d")
+			(uuid "3a25bce6-1d25-4fbe-8f70-713fb5c52518")
 		)
 		(pad "1" thru_hole circle
 			(at 2.4 0)
@@ -11329,7 +11329,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7ad7847b-ff1c-42a6-9b4c-6b3bb613ed8d")
+			(uuid "3dccecec-70d6-438b-9338-3a116cb18eba")
 		)
 		(embedded_fonts no)
 	)
@@ -12167,7 +12167,7 @@
 			(uuid "e3b9e127-45b2-4391-be39-e130f0999619")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-6-5.08_1x06_P5.08mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/TerminalBlock_Phoenix_MKDS-1,5-6-5.08_1x06_P5.08mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12292,7 +12292,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "4134c53b-6c91-430e-80da-2ab0a8d6e4dd")
+			(uuid "9bd8c655-99b2-4b9b-ac0f-d1b48461b742")
 		)
 		(pad "1" thru_hole circle
 			(at -1.697056 1.697056)
@@ -12304,7 +12304,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "4134c53b-6c91-430e-80da-2ab0a8d6e4dd")
+			(uuid "3c3749de-b10e-457a-8cd3-824d999856e5")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -2.4)
@@ -12316,7 +12316,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "4134c53b-6c91-430e-80da-2ab0a8d6e4dd")
+			(uuid "b1c0db1a-6ece-4541-8274-1b1e80d7d21e")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -12327,7 +12327,7 @@
 			(net 12 "GND")
 			(pinfunction "1")
 			(pintype "input")
-			(uuid "4134c53b-6c91-430e-80da-2ab0a8d6e4dd")
+			(uuid "5e6170b5-95ff-4c4f-be35-6a8ccce3264a")
 		)
 		(pad "1" thru_hole circle
 			(at 0 2.4)
@@ -12339,7 +12339,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "4134c53b-6c91-430e-80da-2ab0a8d6e4dd")
+			(uuid "115fb88f-323c-4fff-9783-01595982c9f7")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 -1.697056)
@@ -12351,7 +12351,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "4134c53b-6c91-430e-80da-2ab0a8d6e4dd")
+			(uuid "990e822d-b1df-4223-a94d-ccfdbb50e47b")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 1.697056)
@@ -12363,7 +12363,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "4134c53b-6c91-430e-80da-2ab0a8d6e4dd")
+			(uuid "93a5db2d-a368-4a1e-b10b-969ad3894732")
 		)
 		(pad "1" thru_hole circle
 			(at 2.4 0)
@@ -12375,7 +12375,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "4134c53b-6c91-430e-80da-2ab0a8d6e4dd")
+			(uuid "d7532a01-0060-4c5c-8d09-00e0ad33c4b4")
 		)
 		(embedded_fonts no)
 	)
@@ -12611,7 +12611,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "dd8c8138-394f-4f2c-b495-a17038fed3e1")
+			(uuid "3d8bbdad-95fc-4855-ba19-4a6b07b44480")
 		)
 		(pad "1" thru_hole circle
 			(at -1.697056 1.697056)
@@ -12623,7 +12623,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "dd8c8138-394f-4f2c-b495-a17038fed3e1")
+			(uuid "b51d18dc-357f-4da8-9bef-4c5d3b9902a7")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -2.4)
@@ -12635,7 +12635,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "dd8c8138-394f-4f2c-b495-a17038fed3e1")
+			(uuid "9ddd84d7-5e6e-4baf-9ffb-d6023b2819ad")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -12646,7 +12646,7 @@
 			(net 12 "GND")
 			(pinfunction "1")
 			(pintype "input")
-			(uuid "dd8c8138-394f-4f2c-b495-a17038fed3e1")
+			(uuid "6bbcc6df-2e4c-43c9-af29-d18fc7990685")
 		)
 		(pad "1" thru_hole circle
 			(at 0 2.4)
@@ -12658,7 +12658,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "dd8c8138-394f-4f2c-b495-a17038fed3e1")
+			(uuid "1401ba3b-68a3-4163-ab69-c2b33a1cc6ab")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 -1.697056)
@@ -12670,7 +12670,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "dd8c8138-394f-4f2c-b495-a17038fed3e1")
+			(uuid "7a974330-56be-4521-933d-394810b52e3e")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 1.697056)
@@ -12682,7 +12682,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "dd8c8138-394f-4f2c-b495-a17038fed3e1")
+			(uuid "825e56b2-c136-4252-b1f1-c64eca49955a")
 		)
 		(pad "1" thru_hole circle
 			(at 2.4 0)
@@ -12694,7 +12694,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "dd8c8138-394f-4f2c-b495-a17038fed3e1")
+			(uuid "b762243c-ac50-46af-aa74-545307018bd5")
 		)
 		(embedded_fonts no)
 	)
@@ -13630,7 +13630,7 @@
 			(uuid "0583d574-67db-4e10-889c-23507a8fbd9f")
 		)
 		(embedded_fonts no)
-		(model "D:/00 - Dev & Calculs/Lib_KICAD/AVR-H128-CAN/AVR-H128-CAN.step"
+		(model "${KIPRJMOD}/packages3D/AVR-H128-CAN.step"
 			(offset
 				(xyz 0 0 10)
 			)
@@ -13641,7 +13641,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/PinSocket_1x02_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13652,7 +13652,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x16_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/PinSocket_1x16_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz -2.54 0 0)
 			)
@@ -13663,7 +13663,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x16_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/PinSocket_1x16_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 40.64 0 0)
 			)
@@ -13674,7 +13674,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x16_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/PinSocket_1x16_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 38.1 2.54 0)
 			)
@@ -13685,7 +13685,7 @@
 				(xyz 0 0 90)
 			)
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x16_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/PinSocket_1x16_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 38.1 -40.64 0)
 			)
@@ -13906,7 +13906,7 @@
 			(uuid "6d5534ff-ca08-44b3-9bf0-9b673ea5c02b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/LED_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14265,7 +14265,7 @@
 			(uuid "dcc2df6d-0729-44e8-94b1-4efa2169a46d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_TE-Connectivity.3dshapes/TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14688,7 +14688,7 @@
 			(uuid "73be48bb-86ba-4f0d-9d39-73cbd211356d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/SO-20_12.8x7.5mm_P1.27mm.wrl"
+		(model "${KIPRJMOD}/packages3D/SO-20_12.8x7.5mm_P1.27mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14890,7 +14890,7 @@
 			(uuid "7a628329-7932-4109-886f-aa4e1239c909")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16275,7 +16275,7 @@
 			(uuid "5187e65d-076b-461f-800b-6f625a5c3447")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17095,7 +17095,7 @@
 			(uuid "690df589-916d-4df4-966d-67474901313c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17429,7 +17429,7 @@
 			(uuid "be5914c2-d1ee-4eea-ac07-a7241c80b00c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17940,7 +17940,7 @@
 			(uuid "a4611116-01ab-4ad5-b75d-59d98acb0b9e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19768,7 +19768,7 @@
 			(uuid "6cc3d898-db40-4bc1-9d87-391340ae0ebb")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20086,7 +20086,7 @@
 			(uuid "8d24d130-99ef-4f62-83a3-0f4c34f66032")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20288,7 +20288,7 @@
 			(uuid "799635c4-01eb-48ab-8d93-127c179e7a49")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20607,7 +20607,7 @@
 			(uuid "27665bed-5472-4a29-b9e3-ec1b676c0e0d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1210_3225Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
