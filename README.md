@@ -11,3 +11,6 @@
 
 # Board details
 ![Board details](./Pdf_et_doc_sources/Photos/Board_1.JPG)
+
+# Other
+If you're happy by my work ... put a star ;-) 
