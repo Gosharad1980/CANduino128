@@ -217,6 +217,7 @@
       ],
       "track_widths": [
         0.0,
+        0.4,
         0.5,
         1.0
       ],
@@ -686,7 +687,7 @@
         "uuid": "b26d10c1-0874-459a-80a4-e525262e670c"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR9,#PWR118,#PWR120-121,#PWR159-165,J3",
     "variants": []
   },
   "sheets": [
@@ -725,6 +726,10 @@
     [
       "d2dfb9cd-7f26-40ed-b95a-1822496f5075",
       "ADC_Line7"
+    ],
+    [
+      "40aa4563-7076-49fc-b6b2-e7bcc7e0b9b5",
+      "Connection PCI CAN Express"
     ]
   ],
   "text_variables": {},
