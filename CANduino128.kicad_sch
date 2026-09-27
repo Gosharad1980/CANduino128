@@ -5266,17 +5266,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "(SysClk)"
-		(exclude_from_sim no)
-		(at 58.9925 73.1371 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "35cca231-9812-477b-b669-48d5c17323b1")
-	)
 	(junction
 		(at 69.85 167.64)
 		(diameter 0)
@@ -5398,10 +5387,6 @@
 		(uuid "f9fb4776-e272-4b17-a99c-b7c1efbad716")
 	)
 	(no_connect
-		(at 231.14 96.52)
-		(uuid "1d01fd17-42ed-4e8c-891a-e2c5a814a27c")
-	)
-	(no_connect
 		(at 266.7 86.36)
 		(uuid "20f5487f-c4d4-4af0-af97-ff9fb88107d1")
 	)
@@ -5419,7 +5404,11 @@
 	)
 	(no_connect
 		(at 231.14 93.98)
-		(uuid "c5a2783a-5d38-4247-ad95-8bc5d4572fad")
+		(uuid "8b43086e-9555-411c-9db3-ebcf2b2fcacc")
+	)
+	(no_connect
+		(at 266.7 110.49)
+		(uuid "e1cd3ded-00cc-46ba-94ad-3c4630c07af3")
 	)
 	(no_connect
 		(at 266.7 88.9)
@@ -9149,6 +9138,16 @@
 		)
 		(uuid "136bd067-90fb-4ffa-b3db-2e3ad9f3b719")
 	)
+	(label "SWClk"
+		(at 231.14 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "13a0cdc7-d0ae-49e3-aced-0373910cd977")
+	)
 	(label "ADR3-D3"
 		(at 165.1 127 180)
 		(effects
@@ -9318,6 +9317,16 @@
 			(justify left bottom)
 		)
 		(uuid "5579ceeb-21da-4554-8502-19360212d515")
+	)
+	(label "SWClk"
+		(at 74.93 73.66 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5c3c7adf-f2ac-47ce-bbb1-4a9d139ed2a7")
 	)
 	(label "ADR12"
 		(at 130.81 97.79 0)
@@ -9559,16 +9568,6 @@
 		)
 		(uuid "8eb8fe84-5a45-4c17-ac1b-75716ea08ee4")
 	)
-	(label "~{SPI_CS3}"
-		(at 266.7 110.49 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "93b2bf87-4a5e-4b7c-872c-0c5ce3f12d18")
-	)
 	(label "ADR12"
 		(at 160.02 91.44 0)
 		(effects
@@ -9618,16 +9617,6 @@
 			(justify right bottom)
 		)
 		(uuid "a4bd16d8-0916-4f7d-96e9-95c49db143d6")
-	)
-	(label "~{SPI_CS3}"
-		(at 74.93 73.66 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a4d954d9-0d42-4ced-b331-3c4e530d8254")
 	)
 	(label "A3 - D48"
 		(at 130.81 52.07 0)

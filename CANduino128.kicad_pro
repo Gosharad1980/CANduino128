@@ -687,7 +687,7 @@
         "uuid": "b26d10c1-0874-459a-80a4-e525262e670c"
       }
     ],
-    "used_designators": "#PWR9,#PWR118,#PWR120-121,#PWR159-165,J3",
+    "used_designators": "#PWR9,#PWR118,#PWR120-121,#PWR159-165,J3,Pad_R2,SWClk2OSC2",
     "variants": []
   },
   "sheets": [
