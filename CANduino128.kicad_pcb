@@ -100,7 +100,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(aux_axis_origin 101.6 134.62)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
@@ -9676,7 +9675,7 @@
 		(property "Reference" "RS_K10"
 			(at 1.27 -2.54 270)
 			(layer "F.SilkS")
-			(uuid "2d035f54-9109-40cf-ba0d-5af3cae79199")
+			(uuid "5205cfd1-1558-40f7-b263-7b00e74f8fff")
 			(effects
 				(font
 					(size 1 1)
@@ -9688,7 +9687,7 @@
 			(at 0 2.28 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "232db518-2292-443c-b7b8-bea34c5dcfb0")
+			(uuid "e5d1d06e-3d27-478e-983f-c241bbb057db")
 			(effects
 				(font
 					(size 1 1)
@@ -9700,7 +9699,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cf669232-3079-48d6-88e3-219cc0ea12c2")
+			(uuid "538d47d1-90d1-429a-a37b-36fda824d021")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9712,7 +9711,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7606d7a7-4bac-4822-adba-b64a73d7abcc")
+			(uuid "bcf7602e-d247-45aa-a577-91c11097e81f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21597,18 +21596,6 @@
 				(thickness 0.15)
 			)
 			(justify right)
-		)
-	)
-	(gr_text "JLCJLCJLCJLC"
-		(at 184.785 99.695 90)
-		(layer "F.SilkS")
-		(uuid "232385c4-209d-499a-bacb-f7c82f948e4a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify left bottom)
 		)
 	)
 	(gr_text "~{RST}"
